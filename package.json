@@ -2,7 +2,7 @@
   "name": "eliftech-school--delivery-app-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./bin/server.js",
   "scripts": {
     "test": "jest",
     "start": "cross-env NODE_ENV=production node ./bin/server.js",
